@@ -1,0 +1,46 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    align-items: center;
+    display: block;
+}
+li {
+    text-align: center;
+  }
+  
+
+p.made_with_text {
+    color: rgb(182, 182, 182);
+    font-family: verdana;
+    font-size: small;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+i {
+    color: rgb(182, 182, 182);
+    display: flex;
+    justify-content: space-between;
+    padding: 14px;
+    font-size: small;
+    
+}
+
+i:hover {
+  
+    color: rgb(38, 38, 38);
+  
+  }
+
+  a {
+    text-decoration: none;
+  }

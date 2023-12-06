@@ -1,0 +1,59 @@
+i {
+  color: rgb(182, 182, 182);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px;
+  font-size: small;
+}
+
+i:hover {
+  
+  color: rgb(38, 38, 38);
+
+}
+
+a {
+  text-decoration: none;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 25px;
+  overflow: hidden;
+}
+
+a.logo {
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+  color: black;
+  letter-spacing: .1rem;
+}
+
+li {
+  float: right;
+}
+
+li a.navbar {
+  display: block;
+  color: rgb(182, 182, 182);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: .9rem;
+  font-weight: 500;
+  font-family: Trebuchet MS;
+}
+
+li a:hover {
+
+  color: rgb(38, 38, 38);
+
+}
+
